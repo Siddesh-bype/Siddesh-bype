@@ -13,7 +13,7 @@
 <br/>
 
 <!-- SOCIAL LINKS (THEMED IN TEAL, BLUE, GREEN & DARK) -->
-<a href="https://linkedin.com/in/siddesh-shirote"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/siddeshshirote2006/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://github.com/group-k11"><img src="https://img.shields.io/badge/Team-group--k11-00D4B2?style=for-the-badge&logo=github&logoColor=0D1117" alt="group-k11"/></a>&nbsp;
 <a href="https://leetcode.com/u/Siddesh-bype"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
 <a href="mailto:siddeshshirote30052006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
@@ -257,7 +257,7 @@ Cross-platform Flutter apps, retail POS systems, Augmented Reality (AR) real-tim
 
 <div align="center">
 
-<a href="https://linkedin.com/in/siddesh-shirote"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/siddeshshirote2006/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/group-k11"><img src="https://img.shields.io/badge/Team-group--k11-00D4B2?style=for-the-badge&logo=github&logoColor=0D1117"/></a>&nbsp;
 <a href="https://github.com/Siddesh-bype"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="mailto:siddeshshirote30052006@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
