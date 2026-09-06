@@ -30,7 +30,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="330" src="https://raw.githubusercontent.com/Siddesh-bype/Siddesh-bype/main/assets/coding.gif"/>
 
 **Hey, I'm Siddesh** — a Computer Engineering student specializing in **Cybersecurity, AI Threat Defense, and Secure Cloud-Native Systems**. I engineer middleware firewalls for LLMs, build autonomous intrusion detection engines (A.I.R.S), and develop resilient real-time architectures.
 
