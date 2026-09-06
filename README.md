@@ -235,10 +235,6 @@ Cross-platform Flutter apps, retail POS systems, Augmented Reality (AR) real-tim
 
 <img src="https://streak-stats.demolab.com?user=Siddesh-bype&hide_border=true&background=0D1117&ring=00D4B2&fire=10B981&currStreakLabel=00D4B2&sideLabels=0080FF&stroke=00D4B220&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="55%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddesh-bype&theme=tokyonight" width="85%"/>
-
 </div>
 
 ---
