@@ -29,7 +29,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push the content of <build_dir> to a branch
+      # Strip bottom progress bar (.u rect elements) and crop canvas cleanly
+      - name: Strip bottom progress bar from SVGs
+        run: |
+          sed -i -E 's/<rect class="u[^"]*"[^>]*>//g' dist/*.svg
+          sed -i 's/viewBox="-16 -32 880 192"/viewBox="-16 -16 880 144"/g' dist/*.svg
+          sed -i 's/height="192"/height="144"/g' dist/*.svg
+
+      # Push the content of <build_dir> to the output branch
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

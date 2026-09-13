@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Siddesh Shirote — AI/ML &amp; Systems Engineer">
+  <title>Siddesh Shirote — AI/ML &amp; Systems Engineer</title>
+  <desc>Avant-garde neural pulse lattice showing machine learning telemetry, network signal pulses, and engineer credentials.</desc>
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090d14"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#05080e"/>
+    </linearGradient>
+
+    <!-- Edge paths (animateMotion targets for signal pulses) -->
+    <path id="e1"  d="M 120 80  L 240 140"/>
+    <path id="e2"  d="M 120 80  L 180 250"/>
+    <path id="e3"  d="M 240 140 L 180 250"/>
+    <path id="e4"  d="M 240 140 L 340 80"/>
+    <path id="e5"  d="M 240 140 L 450 140"/>
+    <path id="e6"  d="M 180 250 L 340 220"/>
+    <path id="e7"  d="M 340 80  L 450 140"/>
+    <path id="e8"  d="M 340 80  L 560 90"/>
+    <path id="e9"  d="M 340 220 L 450 140"/>
+    <path id="e10" d="M 340 220 L 520 250"/>
+    <path id="e11" d="M 450 140 L 640 180"/>
+    <path id="e12" d="M 560 90  L 640 180"/>
+    <path id="e13" d="M 520 250 L 640 180"/>
+    <path id="e14" d="M 520 250 L 620 320"/>
+    <path id="e15" d="M 640 180 L 620 320"/>
+
+    <!-- Teal Node Halo -->
+    <radialGradient id="halo-teal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#00D4B2" stop-opacity="0.85"/>
+      <stop offset="40%" stop-color="#00D4B2" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00D4B2" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Blue Node Halo -->
+    <radialGradient id="halo-blue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#0080FF" stop-opacity="0.85"/>
+      <stop offset="40%" stop-color="#0080FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0080FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Emerald Node Halo -->
+    <radialGradient id="halo-emerald" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.85"/>
+      <stop offset="40%" stop-color="#10B981" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="1200" height="420" fill="url(#bg-grad)"/>
+
+  <!-- Architectural Background Grid -->
+  <g stroke="#161f2e" stroke-width="0.75" opacity="0.6">
+    <line x1="80"  y1="0" x2="80"  y2="420"/>
+    <line x1="200" y1="0" x2="200" y2="420"/>
+    <line x1="320" y1="0" x2="320" y2="420"/>
+    <line x1="440" y1="0" x2="440" y2="420"/>
+    <line x1="560" y1="0" x2="560" y2="420"/>
+    <line x1="680" y1="0" x2="680" y2="420"/>
+    <line x1="0" y1="70"  x2="760" y2="70"/>
+    <line x1="0" y1="140" x2="760" y2="140"/>
+    <line x1="0" y1="210" x2="760" y2="210"/>
+    <line x1="0" y1="280" x2="760" y2="280"/>
+    <line x1="0" y1="350" x2="760" y2="350"/>
+  </g>
+
+  <!-- Cybernetic Corner Frame Accents -->
+  <g stroke="#00D4B2" stroke-width="1.5" fill="none" opacity="0.7">
+    <path d="M 20 50 L 20 20 L 50 20"/>
+    <path d="M 1180 50 L 1180 20 L 1150 20"/>
+    <path d="M 20 370 L 20 400 L 50 400"/>
+    <path d="M 1180 370 L 1180 400 L 1150 400"/>
+  </g>
+
+  <!-- Telemetry Header Labels (Upper Left) -->
+  <g font-family="'JetBrains Mono', monospace" font-size="9" fill="#8b949e" letter-spacing="2">
+    <text x="40" y="42">LOC: 18.5204° N, 73.8567° E // PUNE_IN</text>
+    <text x="400" y="42">PROTO: POSIX/SECURE_TCP</text>
+  </g>
+
+  <!-- Network Lattice Static Edges (Hairlines) -->
+  <g stroke="#1f2d42" stroke-width="1" opacity="0.85">
+    <line x1="120" y1="80"  x2="240" y2="140"/>
+    <line x1="120" y1="80"  x2="180" y2="250"/>
+    <line x1="240" y1="140" x2="180" y2="250"/>
+    <line x1="240" y1="140" x2="340" y2="80"/>
+    <line x1="240" y1="140" x2="450" y2="140"/>
+    <line x1="180" y1="250" x2="340" y2="220"/>
+    <line x1="340" y1="80"  x2="450" y2="140"/>
+    <line x1="340" y1="80"  x2="560" y2="90"/>
+    <line x1="340" y1="220" x2="450" y2="140"/>
+    <line x1="340" y1="220" x2="520" y2="250"/>
+    <line x1="450" y1="140" x2="640" y2="180"/>
+    <line x1="560" y1="90"  x2="640" y2="180"/>
+    <line x1="520" y1="250" x2="640" y2="180"/>
+    <line x1="520" y1="250" x2="620" y2="320"/>
+    <line x1="640" y1="180" x2="620" y2="320"/>
+  </g>
+
+  <!-- Dynamic Glowing Path Highlights -->
+  <g stroke-width="1.8" fill="none" opacity="0.6">
+    <line x1="120" y1="80"  x2="240" y2="140" stroke="#00D4B2"/>
+    <line x1="240" y1="140" x2="450" y2="140" stroke="#0080FF"/>
+    <line x1="450" y1="140" x2="640" y2="180" stroke="#10B981"/>
+    <line x1="340" y1="80"  x2="560" y2="90"  stroke="#00D4B2"/>
+    <line x1="520" y1="250" x2="640" y2="180" stroke="#0080FF"/>
+  </g>
+
+  <!-- Halos behind Primary Vertices -->
+  <ellipse cx="120" cy="80"  rx="28" ry="28" fill="url(#halo-teal)"/>
+  <ellipse cx="240" cy="140" rx="34" ry="34" fill="url(#halo-blue)"/>
+  <ellipse cx="180" cy="250" rx="28" ry="28" fill="url(#halo-emerald)"/>
+  <ellipse cx="340" cy="80"  rx="30" ry="30" fill="url(#halo-teal)"/>
+  <ellipse cx="450" cy="140" rx="42" ry="42" fill="url(#halo-blue)"/>
+  <ellipse cx="340" cy="220" rx="28" ry="28" fill="url(#halo-teal)"/>
+  <ellipse cx="560" cy="90"  rx="30" ry="30" fill="url(#halo-emerald)"/>
+  <ellipse cx="520" cy="250" rx="34" ry="34" fill="url(#halo-blue)"/>
+  <ellipse cx="640" cy="180" rx="38" ry="38" fill="url(#halo-teal)"/>
+  <ellipse cx="620" cy="320" rx="28" ry="28" fill="url(#halo-emerald)"/>
+
+  <!-- Lattice Vertices (Solid core circles) -->
+  <g>
+    <circle cx="120" cy="80"  r="5.5" fill="#00D4B2"/>
+    <circle cx="240" cy="140" r="6.5" fill="#0080FF"/>
+    <circle cx="180" cy="250" r="5.5" fill="#10B981"/>
+    <circle cx="340" cy="80"  r="6.0" fill="#00D4B2"/>
+    <circle cx="450" cy="140" r="7.5" fill="#0080FF" filter="url(#glow)"/>
+    <circle cx="340" cy="220" r="5.5" fill="#00D4B2"/>
+    <circle cx="560" cy="90"  r="6.0" fill="#10B981"/>
+    <circle cx="520" cy="250" r="6.5" fill="#0080FF"/>
+    <circle cx="640" cy="180" r="7.0" fill="#00D4B2" filter="url(#glow)"/>
+    <circle cx="620" cy="320" r="5.5" fill="#10B981"/>
+  </g>
+
+  <!-- Node Labels (Telemetry tags) -->
+  <g font-family="'JetBrains Mono', monospace" font-size="8" fill="#58a6ff" letter-spacing="1">
+    <text x="132" y="76">LLM_FIREWALL</text>
+    <text x="252" y="136">NIDS_A.I.R.S</text>
+    <text x="192" y="258">HYDRO_X_TWIN</text>
+    <text x="352" y="76">SOLAR_AR</text>
+    <text x="464" y="136">ADVERSARIAL_ML</text>
+    <text x="352" y="228">POSIX_SOCKETS</text>
+    <text x="572" y="86">NEURAL_NET</text>
+    <text x="532" y="258">THREAT_INTEL</text>
+    <text x="652" y="176">DEFENSE_CORE</text>
+  </g>
+
+  <!-- Animated Signal Pulses Running on Paths -->
+  <g filter="url(#glow)">
+    <!-- Pulse 1 (Teal) -->
+    <circle r="3.5" fill="#00D4B2">
+      <animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 2 (Blue) -->
+    <circle r="4" fill="#0080FF">
+      <animateMotion dur="2.8s" repeatCount="indefinite"><mpath href="#e5"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 3 (Emerald) -->
+    <circle r="3.5" fill="#10B981">
+      <animateMotion dur="3.1s" repeatCount="indefinite"><mpath href="#e11"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 4 (Teal reverse) -->
+    <circle r="3" fill="#00D4B2">
+      <animateMotion dur="2.5s" repeatCount="indefinite"><mpath href="#e8"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 5 (Blue) -->
+    <circle r="3.5" fill="#0080FF">
+      <animateMotion dur="3.4s" repeatCount="indefinite"><mpath href="#e13"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 6 (Emerald) -->
+    <circle r="3" fill="#10B981">
+      <animateMotion dur="2.9s" repeatCount="indefinite"><mpath href="#e6"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 7 (Teal) -->
+    <circle r="3.5" fill="#00D4B2">
+      <animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#e7"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 8 (Blue) -->
+    <circle r="3" fill="#0080FF">
+      <animateMotion dur="3.2s" repeatCount="indefinite"><mpath href="#e10"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Pulse 9 (Emerald) -->
+    <circle r="3.5" fill="#10B981">
+      <animateMotion dur="2.7s" repeatCount="indefinite"><mpath href="#e15"/></animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Vertical Divider separating Visual Lattice and Telemetry Panel -->
+  <line x1="770" y1="40" x2="770" y2="380" stroke="#1f293d" stroke-width="1.5"/>
+  <line x1="770" y1="140" x2="770" y2="240" stroke="#00D4B2" stroke-width="2" opacity="0.8"/>
+
+  <!-- Right Telemetry Panel (Card) -->
+  <g font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">
+    <!-- Sub-header marks -->
+    <text x="810" y="72" font-size="10" letter-spacing="4" fill="#00D4B2">AI/ML · SYSTEMS · DEFENSE</text>
+    <text x="810" y="90" font-size="9" letter-spacing="3" fill="#8b949e">BUILD // V.2026.09 · ONLINE</text>
+
+    <!-- Main Name -->
+    <text x="810" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Siddesh Shirote</text>
+    
+    <!-- Subtitle / Role -->
+    <text x="810" y="166" font-size="11" letter-spacing="2" fill="#00D4B2" font-weight="600">AI/ML &amp; SYSTEMS · CYBER DEFENSE</text>
+
+    <!-- Hairline rule -->
+    <line x1="810" y1="184" x2="1140" y2="184" stroke="#1f293d" stroke-width="1"/>
+
+    <!-- Telemetry Data Rows -->
+    <g transform="translate(810, 208)" font-size="11" fill="#8b949e">
+      <text x="0" y="0">education</text>       <text x="140" y="0" fill="#58a6ff" font-weight="600">VIT Pune · B.Tech (2028)</text>
+      <text x="0" y="22">discipline</text>     <text x="140" y="22" fill="#c9d1d9">Computer Engineering</text>
+      <text x="0" y="44">primary_focus</text>  <text x="140" y="44" fill="#10B981" font-weight="600">Deep Learning &amp; ML Systems</text>
+      <text x="0" y="66">specialization</text> <text x="140" y="66" fill="#00D4B2">Adversarial AI &amp; NIDS</text>
+      <text x="0" y="88">core_arsenal</text>    <text x="140" y="88" fill="#c9d1d9">Python · PyTorch · C++</text>
+    </g>
+
+    <!-- Hairline rule -->
+    <line x1="810" y1="318" x2="1140" y2="318" stroke="#1f293d" stroke-width="1"/>
+
+    <!-- Network Transmit Handles -->
+    <text x="810" y="342" font-size="10" letter-spacing="3" fill="#00D4B2">→ TRANSMIT</text>
+    <text x="810" y="360" font-size="11" fill="#c9d1d9">github/Siddesh-bype &#160; in/siddeshshirote2006</text>
+  </g>
+
+  <!-- Bottom Left Status Pill -->
+  <g transform="translate(40, 388)" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="2.5">
+    <circle cx="6" cy="-3" r="4" fill="#10B981">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="20" y="0" fill="#8b949e">SYS_STATUS: <tspan fill="#10B981" font-weight="bold">ACTIVE</tspan> · 9 NEURAL SIGNALS IN FLIGHT · VIT PUNE</text>
+  </g>
+</svg>
