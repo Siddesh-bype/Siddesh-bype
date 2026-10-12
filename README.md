@@ -27,7 +27,7 @@
 
 ## 👋 &nbsp;About Me
 
-<img align="right" width="300" src="./assets/coding.gif" alt="Animated GIF of a cartoon programmer with headphones coding at a glowing desk"/>
+<img align="right" width="300" src="./assets/coding.gif" alt="Animated GIF of a penguin typing furiously on a laptop"/>
 
 I am a Computer Engineering undergraduate at **Vishwakarma Institute of Technology (VIT Pune)** (Batch of 2028).
 
