@@ -248,10 +248,6 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
 
 <img src="https://streak-stats.demolab.com?user=Siddesh-bype&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&stroke=30363D&currStreakNum=F0F6FC&sideNums=8B949E&dates=8B949E" width="460" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/Siddesh-bype?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0D1117&title_color=58A6FF&text_color=C9D1D9" width="460" alt="LeetCode Stats — Siddesh-bype"/>
-
 </div>
 
 ---
