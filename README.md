@@ -9,16 +9,17 @@
 <div align="center">
 
 <!-- MONOSPACE TYPING BANNER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1000&color=00D4B2&center=true&vCenter=true&random=false&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddesh+Shirote;%F0%9F%A4%96+AI%2FML+%26+Systems+Engineer;%F0%9F%8E%93+Computer+Engineering+%40+VIT+Pune;%F0%9F%A7%A0+Deep+Learning+%C2%B7+LLMs+%26+ML+Systems;%F0%9F%9B%A1%EF%B8%8F+Adversarial+ML+%26+Cyber+Defense;%F0%9F%8E%AF+Open+to+AI%2FML+%26+Software+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1000&color=00D4B2&center=true&vCenter=true&random=false&width=680&lines=Hi+%2C+I'm+Siddesh+Shirote;AI%2FML+%26+Systems+Engineer;Computer+Engineering+%40+VIT+Pune;Deep+Learning+%C2%B7+LLMs+%26+ML+Systems;Adversarial+ML+%26+Cyber+Defense;Open+to+AI%2FML+%26+Software+Internships)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- PRIMARY STATUS BADGES -->
-<a href="https://www.vit.edu/"><img src="https://img.shields.io/badge/%F0%9F%8E%93_VIT_Pune-Comp_Engg_%2728-0080FF?style=flat-square" alt="VIT Pune Computer Engineering"/></a>&nbsp;
+<a href="https://www.vit.edu/"><img src="https://img.shields.io/badge/VIT_Pune-Comp_Engg_%2728-0080FF?style=flat-square" alt="VIT Pune Computer Engineering"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/siddeshshirote2006/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://leetcode.com/u/Siddesh-bype"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Internships-10B981?style=flat-square" alt="Open to Internships"/>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Siddesh-bype&style=flat-square&color=00D4B2&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Open_to_Internships-10B981?style=flat-square" alt="Open to Internships"/>&nbsp;
+<a href="https://github.com/Siddesh-bype?tab=followers"><img src="https://img.shields.io/github/followers/Siddesh-bype?label=Followers&color=00D4B2&style=flat-square" alt="GitHub Followers"/></a>&nbsp;
+<a href="https://github.com/Siddesh-bype?tab=repositories"><img src="https://img.shields.io/github/stars/Siddesh-bype?label=Total%20Stars&color=00D4B2&style=flat-square" alt="Total Stars"/></a>
 
 </div>
 
@@ -26,9 +27,11 @@
 
 ## 👋 &nbsp;About Me
 
+<img align="right" width="300" src="./assets/coding.gif" alt="Animated GIF of a cartoon programmer with headphones coding at a glowing desk"/>
+
 I am a Computer Engineering undergraduate at **Vishwakarma Institute of Technology (VIT Pune)** (Batch of 2028).
 
-My engineering work is centered on **AI/ML and Systems Engineering** — building end-to-end machine learning pipelines, deep learning models, and hardened AI infrastructure. My work bridges predictive modeling and adversarial AI defense: from real-time neural intrusion detection (A.I.R.S) and inline prompt-injection firewalls to low-level multithreaded C++ socket servers and spatial computer vision.
+My engineering work is centered on **AI/ML and Systems Engineering** — building end-to-end machine learning pipelines, deep learning models, and hardened AI infrastructure across predictive modeling, adversarial AI defense, low-level network systems, and spatial computer vision.
 
 - 🎓 **Academics:** B.Tech in Computer Engineering @ **VIT Pune** (2024–2028)
 - 🧠 **Domain Focus:** Machine Learning, Deep Learning, LLM Guardrails & Intelligent Systems
@@ -72,7 +75,6 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
   - **Role:** Solo Creator & Systems Developer.
   - **Impact:** Instant augmented reality rooftop solar feasibility assessment in under 2 minutes.
   - **Stack:** Flutter · Dart · Kotlin (ARRenderer) · YOLOv8n TFLite · Google ARCore · PVGIS · OpenGL ES
-  - **Repo:** [Siddesh-bype/SolarSense_AR](https://github.com/Siddesh-bype/SolarSense_AR)
 </details>
 
 <details>
@@ -88,6 +90,28 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
 </details>
 
 <details>
+  <summary><strong>ProbeIQ — API Health Diagnostics</strong> · <code>Personal</code> · <em>Telemetry & Playwright Verification</em></summary>
+  <br/>
+
+  Real-time API health inspection with latency tracking, deployment docs, and Playwright-verified frontend. Full-stack layout (`backend` + `frontend` + `docs` + `DEPLOYMENT.md`) with environment-template config.
+
+  - **Role:** Solo Creator.
+  - **Impact:** Reproducible latency diagnostics with deployment-ready docs.
+  - **Stack:** Python · FastAPI · Telemetry · Playwright · Frontend
+</details>
+
+<details>
+  <summary><strong>LinguaSwitch — Realtime Translation Platform</strong> · <code>Personal</code> · <em>Full-Stack + Docker</em></summary>
+  <br/>
+
+  Containerized realtime translation system with dedicated backend/frontend, Docker Compose deployment, test suite, and evidence log (`RIME_EVIDENCE.md`).
+
+  - **Role:** Solo Creator.
+  - **Impact:** One-command Docker deployment with verified end-to-end flow.
+  - **Stack:** Python · Docker · Full-Stack · Tests
+</details>
+
+<details>
   <summary><strong>🔒 Secure Socket Chat Engine</strong> · <code>group-k11</code> · <em>C++ POSIX Sockets &amp; React</em></summary>
   <br/>
 
@@ -96,25 +120,50 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
   - **Role:** Systems & Socket Architecture Collaborator (`group-k11` @ VIT Pune).
   - **Impact:** High-throughput encrypted byte streaming with zero third-party networking library dependencies.
   - **Stack:** C++ · POSIX Sockets · TCP/IP · Multithreading · React · Supabase · WebSockets
-  - **Repo:** [Siddesh-bype/OOPs-Project-K11---Socket-based-Secure-Chat-App](https://github.com/Siddesh-bype/OOPs-Project-K11---Socket-based-Secure-Chat-App)
 </details>
 
 <details>
   <summary><strong>📦 Project Archive</strong> · <em>Full-Stack, Agents &amp; Telemetry</em></summary>
   <br/>
 
-  - **[Call-Shield](https://github.com/Siddesh-bype/call-shield)** — Real-time AI voice authenticity, deepfake, and social-engineering defense platform `(Python · Kotlin · Android)`.
-  - **[Bias-Aware 360° Review Desk](https://github.com/Siddesh-bype/bias-aware-360-review-system)** — Human-in-the-loop review pipeline with automated claim citation and bias verification `(Python · FastAPI · NLP)`.
-  - **[Retail POS &amp; Inventory Engine](https://github.com/group-k11/Mobile-app-development)** — Mobile inventory tracking with barcode scanning, expiry alerts, and offline sync `(Flutter · Dart · Firebase)`.
   - **[SaaS Spend-Waste Agent](https://github.com/Siddesh-bype/SaaS-Spend-Waste-Agent)** — Autonomous automation agent auditing cloud subscriptions to eliminate recurring waste `(Python · GenAI · Tooling)`.
-  - **[ProbeIQ](https://github.com/Siddesh-bype/ProbeIQ)** — High-speed API health diagnostics and real-time latency inspection `(Python · FastAPI · Telemetry)`.
+  - **[TideTrace](https://github.com/Siddesh-bype/TideTrace)** — Trace-analysis workbench with architecture doc, demo, models, and test suite `(Python · Full-Stack · Tests)`.
+  - **[SpendSmart](https://github.com/Siddesh-bype/SpendSmart)** — Expense-tracking Flutter app with platform builds and widget tests `(Flutter · Dart)`.
+  - **[teachcast](https://github.com/Siddesh-bype/teachcast)** — Teaching-agent platform with backend/frontend split and docs `(Python · Full-Stack)`.
+  - **[Retail POS & Inventory Engine](https://github.com/group-k11/Mobile-app-development)** — Mobile inventory tracking with barcode scanning, expiry alerts, and offline sync `(Flutter · Dart · Firebase)`.
+  - **[Call-Shield](https://github.com/Siddesh-bype/call-shield)** — Collaborative fork: real-time AI voice authenticity and social-engineering defense tooling `(Python · Kotlin · Android)`.
+  - **[Bias-Aware 360° Review Desk](https://github.com/Siddesh-bype/bias-aware-360-review-system)** — Collaborative fork: evidence-cited 360° review pipeline with bias checks `(Python · FastAPI · NLP)`.
 </details>
+
+## Live Repository Pins
+
+<div align="center">
+
+<a href="https://github.com/Siddesh-bype/SolarSense_AR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-bype&repo=SolarSense_AR&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="SolarSense_AR pin" />
+</a>
+&nbsp;
+<a href="https://github.com/Siddesh-bype/ProbeIQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-bype&repo=ProbeIQ&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="ProbeIQ pin" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Siddesh-bype/LinguaSwitch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-bype&repo=LinguaSwitch&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="LinguaSwitch pin" />
+</a>
+&nbsp;
+<a href="https://github.com/Siddesh-bype/OOPs-Project-K11---Socket-based-Secure-Chat-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddesh-bype&repo=OOPs-Project-K11---Socket-based-Secure-Chat-App&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="Socket Chat pin" />
+</a>
+
+</div>
 
 ---
 
-## 🎯 &nbsp;Availability &amp; Opportunity Filter
+## 🎯 &nbsp;Availability & Opportunity Filter
 
-| Parameter | Current Status &amp; Preferences |
+| Parameter | Current Status & Preferences |
 |:---|:---|
 | **Academics** | B.Tech Computer Engineering (2024–2028) @ **VIT Pune** |
 | **Target Roles** | AI/ML Engineer Intern · Machine Learning Research Intern · Systems / Backend Intern · AI Security Intern |
@@ -164,22 +213,26 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter" title="Flutter"/></a>&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38" height="38" alt="Firebase" title="Firebase"/></a>&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="38" height="38" alt="Android Studio" title="Android Studio"/></a>&nbsp;&nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker"/></a>&nbsp;&nbsp;
   <a href="https://www.kernel.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git"/></a>&nbsp;&nbsp;
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions"/></a>
 </p>
 
-### Databases &amp; Backend Tools
+### Databases & Storage
 <p align="left">
   <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase" title="Supabase"/></a>&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL"/></a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB"/></a>&nbsp;&nbsp;
-  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite" title="SQLite"/></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite" title="SQLite"/></a>
+</p>
+
+### Tools & Workflow
+<p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" title="VS Code"/></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman"/></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" title="Postman"/></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="38" height="38" alt="Android Studio" title="Android Studio"/></a>
 </p>
 
 ---
@@ -188,12 +241,16 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats-ashen-kappa-16.vercel.app/api?username=Siddesh-bype&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>&nbsp;&nbsp;
-<img height="155em" src="https://github-readme-stats-ashen-kappa-16.vercel.app/api/top-langs/?username=Siddesh-bype&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Siddesh-bype&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddesh-bype&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Siddesh-bype&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&stroke=30363D&currStreakNum=F0F6FC&sideNums=8B949E&dates=8B949E" width="460"/>
+<img src="https://streak-stats.demolab.com?user=Siddesh-bype&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&stroke=30363D&currStreakNum=F0F6FC&sideNums=8B949E&dates=8B949E" width="460" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/Siddesh-bype?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0D1117&title_color=58A6FF&text_color=C9D1D9" width="460" alt="LeetCode Stats — Siddesh-bype"/>
 
 </div>
 
@@ -202,7 +259,7 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
 ## 🐍 &nbsp;Contribution Graph
 
 <div align="center">
-  <img alt="GitHub Contribution Snake" src="./assets/github-snake.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Siddesh-bype/Siddesh-bype/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 ---
@@ -215,5 +272,9 @@ My engineering work is centered on **AI/ML and Systems Engineering** — buildin
 <a href="https://www.linkedin.com/in/siddeshshirote2006/"><img src="https://img.shields.io/badge/LinkedIn-siddeshshirote2006-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/Siddesh-bype"><img src="https://img.shields.io/badge/GitHub-Siddesh--bype-21262D?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/Siddesh-bype"><img src="https://img.shields.io/badge/LeetCode-Siddesh--bype-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4B2,50:0080FF,100:0D1117&height=110&section=footer" alt="Footer wave" />
 
 </div>
